@@ -419,5 +419,6 @@ The project also applies the ISO 31000, COSO ERM, and NIST RMF frameworks. Consu
 ---
 
 *This project is a GRC portfolio case study demonstrating a structured approach to enterprise risk assessment, risk governance, threat modelling, and treatment planning.*
-<img width="128" height="128" alt="icon128" src="https://github.com/user-attachments/assets/13823a57-110f-461e-8f60-6ea0a83ea5b8" />
+
+
 
